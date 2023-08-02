@@ -1,2 +1,40 @@
 # ev_studies
 Project 3 - using JSON files instead of MongoDB for Github Pages View
+
+
+Citations:
+Choropleth code taken from: https://leafletjs.com/examples/choropleth/
+
+Bind legend and info to layer: https://gis.stackexchange.com/questions/68941/add-remove-legend-with-leaflet-layers-control
+
+Chart.js 2 axis line chart: https://stackoverflow.com/questions/38085352/how-to-use-two-y-axes-in-chart-js-v2
+
+Chart.js chartjs-plugin-annotation:
+https://www.chartjs.org/chartjs-plugin-annotation/latest/guide/configuration.html
+
+Color array: https://colorbrewer2.org/
+
+Chroma.js Color Palette Helper at https://vis4.net
+
+Python http server: https://docs.python.org/3/library/http.server.html#http.server.SimpleHTTPRequestHandler
+
+#Data Sources
+
+Zipcode data: The zipcode dataset from this github project is being used for the "zoom to zip" feature on the US map. Resource taken from M Bostock zip visualization. https://gist.github.com/mbostock/5180185#file-zipcodes-tsv
+
+States geojson: This dataset was organized by Eric Celeste using data from the US Census Bureau. It is a public dataset but it is requested that the Census Bureau be referenced as a resource. https://eric.clst.org/tech/usgeojson/
+
+State populations: https://www.statsamerica.org/sip/rank_list.aspx?rank_label=pop1&ct=S18
+
+Charging station data (US Dept of Energy- Alternative Fuels Data Center): https://afdc.energy.gov/stations/
+
+EV US/Global sales and Oil/Electric offset/increase (International Energy Agency): https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer
+
+EV Registration per state (2022) (US Dept of Energy- Alternative Fuels Data Center): https://afdc.energy.gov/data/10962
+
+US and world sales history for evs, hybrids, oil and gas usage, and sales share precentages are from IEA's Global EV data explorer https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer
+
+Information about tax credits for EVs in the US was collected from the Congressional Office of Management and Budget, and the IRS, and manually entered into the ev_tax_incentives collection. See, e.g.,
+
+Congressional Research Service for May 14, 2019 US Department of Energy, ALternativeFuels Center: https://afdc.energy.gov/laws/409
+https://www.irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after Congressional Budget Office, September 2012, "Effects of Federal Tax Credits for the Purchase of Electric Vehicles"
