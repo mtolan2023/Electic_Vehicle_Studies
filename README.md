@@ -11,7 +11,7 @@ The index.html file imports all of the scripts from leaflet, chart.js, and plotl
 The separate javascript application files are stored in the subfolder "static/js," and the css files in the subfolder "css." The javascript files are: "leaflet.js," "bubble2.js", "sales.js", "bar.js," and "energyLine.js". All are imported at the end of the index.html.
 
 
-Citations:
+# Citations:
 Choropleth code taken from: https://leafletjs.com/examples/choropleth/
 
 Bind legend and info to layer: https://gis.stackexchange.com/questions/68941/add-remove-legend-with-leaflet-layers-control
@@ -27,7 +27,7 @@ Chroma.js Color Palette Helper at https://vis4.net
 
 Python http server: https://docs.python.org/3/library/http.server.html#http.server.SimpleHTTPRequestHandler
 
-#Data Sources
+# Data Sources:
 
 Zipcode data: The zipcode dataset from this github project is being used for the "zoom to zip" feature on the US map. Resource taken from M Bostock zip visualization. https://gist.github.com/mbostock/5180185#file-zipcodes-tsv
 
