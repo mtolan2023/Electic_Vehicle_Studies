@@ -1,6 +1,15 @@
 # ev_studies
 Project 3 - using JSON files instead of MongoDB for Github Pages View
 
+This is a team data presentation project to explore electric vehicle use in the United States and worldwide. The user can examine ev and hybrid sales since 2010, sales of different makes and models of EVs, sales in different countries or a set of regions, changes in electricity and oil use since 2010, and the current charging station infrastructure in the United States.
+
+The application uses javascript, plotly, chart.js, and leaflet. 
+
+User notes:
+The index.html file imports all of the scripts from leaflet, chart.js, and plotly so nothing needs to be installed on the user's machine.
+
+The separate javascript application files are stored in the subfolder "static/js," and the css files in the subfolder "css." The javascript files are: "leaflet.js," "bubble2.js", "sales.js", "bar.js," and "energyLine.js". All are imported at the end of the index.html.
+
 
 Citations:
 Choropleth code taken from: https://leafletjs.com/examples/choropleth/
