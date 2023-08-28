@@ -1,6 +1,7 @@
 # EV Studies
 Monitoring the growth of EV ownership and infrastructure in the US and World
 
+Github Pages Deployment: https://mtolan2023.github.io/Electic_Vehicle_Studies/
 
 This is a team data presentation project to explore electric vehicle use in the United States and worldwide. The user can examine ev and hybrid sales since 2010, sales of different makes and models of EVs, sales in different countries or a set of regions, changes in electricity and oil use since 2010, and the current charging station infrastructure in the United States.
 
