@@ -5,10 +5,6 @@ Monitoring the growth of EV ownership and infrastructure in the US and World
 This is a team data presentation project to explore electric vehicle use in the United States and worldwide. The user can examine ev and hybrid sales since 2010, sales of different makes and models of EVs, sales in different countries or a set of regions, changes in electricity and oil use since 2010, and the current charging station infrastructure in the United States.
 
 
-![Screen Shot 2023-08-28 at 10 07 19 AM](https://github.com/mtolan2023/Electic_Vehicle_Studies/assets/123139216/27a489e2-d3c0-49c7-94fb-d2564f31ac80)
-![Screen Shot 2023-08-28 at 10 07 55 AM](https://github.com/mtolan2023/Electic_Vehicle_Studies/assets/123139216/84ea4ab0-2787-4044-b5a8-bde0dcb82f75)
-![Screen Shot 2023-08-28 at 10 08 16 AM](https://github.com/mtolan2023/Electic_Vehicle_Studies/assets/123139216/d6cfe3e3-d7e1-4eb5-8051-5b79f0621b94)
-
 The application uses javascript, plotly, chart.js, and leaflet. 
 
 User notes:
