@@ -5,12 +5,23 @@ Github Pages Deployment: https://mtolan2023.github.io/Electic_Vehicle_Studies/
 
 This is a team data presentation project to explore electric vehicle use in the United States and worldwide. The user can examine ev and hybrid sales since 2010, sales of different makes and models of EVs, sales in different countries or a set of regions, changes in electricity and oil use since 2010, and the current charging station infrastructure in the United States.
 
+### Pie Chart - Displays Top Ten Countries EV Ownership
 
 ![Screen Shot 2023-09-18 at 8 14 54 PM](https://github.com/mtolan2023/Electic_Vehicle_Studies/assets/123139216/a614873e-7846-44a7-b882-5e876be35382)
+
+### Bar Chart - Displays ownership growth over time, sortable by country
 ![Screen Shot 2023-09-18 at 8 15 12 PM](https://github.com/mtolan2023/Electic_Vehicle_Studies/assets/123139216/cd96b84d-35fc-49bd-85a8-9cb5e686eb31)
+
+### Oil vs. Electric Usage - Displays oil savings against increased electricity usage
 ![Screen Shot 2023-09-18 at 8 15 33 PM](https://github.com/mtolan2023/Electic_Vehicle_Studies/assets/123139216/6daa3800-ff1e-477d-8626-2890dd59853b)
+
+### Sales By Model in the US annually
 ![Screen Shot 2023-09-18 at 8 15 52 PM](https://github.com/mtolan2023/Electic_Vehicle_Studies/assets/123139216/04d4ccfc-44ab-405e-bc0f-6a3ce1458ecc)
+
+### Logarithmic Change in ownership in the US, Europe and the World
 ![Screen Shot 2023-09-18 at 8 16 01 PM](https://github.com/mtolan2023/Electic_Vehicle_Studies/assets/123139216/578b9b30-5a8d-4867-a3ea-baba85ad5150)
+
+### Tax incentive impact on US sales
 ![Screen Shot 2023-09-18 at 8 16 37 PM](https://github.com/mtolan2023/Electic_Vehicle_Studies/assets/123139216/317c8831-384f-4436-8d98-60764915676b)
 
 
